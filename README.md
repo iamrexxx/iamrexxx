@@ -2,8 +2,6 @@
 - 👀 I’m interested in Gaming & Coding 
 - 🌱 I’m currently learning Everthing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me comingsoon
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i love Dr DisRespect
 
 <!---
